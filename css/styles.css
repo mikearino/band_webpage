@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+.pic {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+.col {
+  color: white;
+  float: right;
+  width: 33%;
+}
+
+.sidebar {
+  color: green;
+  float: right;
+  width: 33%;
+  background-color: white;
+
+}
+
+p {
+  color: white;
+}
+
+a {
+  color: hotpink;
+}
